@@ -1,7 +1,7 @@
 import {Platform} from 'react-native';
 
-export const foregroundColor = '#ffffff';
-export const backgroundColor = '#f4f4f4';
+export const foregroundColor = 'rgba(246, 126, 126,0)';
+export const backgroundColor = 'rgba(246, 126, 126,0)';
 export const separatorColor = '#e8e9ec';
 
 export const processedColor = '#a7e0a3';
